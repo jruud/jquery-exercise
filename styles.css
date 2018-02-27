@@ -64,6 +64,11 @@ ul {
   font-size: 1em;
 }
 
+#change:focus {
+  outline-color: tomato;
+  outline-offset: .25em;
+}
+
 @media (min-width: 589px) {
   #change {
     font-size: 1.35em;
