@@ -64,7 +64,7 @@ ul {
   font-size: 1em;
 }
 
-@media (min-width: 729px) {
+@media (min-width: 589px) {
   #change {
     font-size: 1.35em;
     padding: 1.5em 6em 1.5em 6em;
